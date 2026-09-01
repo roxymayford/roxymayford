@@ -1,10 +1,15 @@
-# Hi there, I'm Roxy Mayford 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Vibe%20Code%20LARPER-ff69b4?style=for-the-badge&logo=matrix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Favorite-Machine%20Learning%20%26%20AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Growing-brightgreen?style=for-the-badge" />
-</p>
+  <!-- Top Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=220&section=header&text=Roxy%20Mayford&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Vibe%20Code%20LARPER%20%7C%20Machine%20Learning%20Enthusiast&descFontSize=20&descAlignY=62" width="100%" />
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Persona-Vibe%20Code%20LARPER-ff69b4?style=for-the-badge&logo=matrix&logoColor=white" />
+    <img src="https://img.shields.io/badge/Favorite-Machine%20Learning%20%26%20AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Learning%20%26%20Leveling%20Up-brightgreen?style=for-the-badge" />
+  </p>
+
+</div>
 
 ---
 
@@ -40,6 +45,11 @@
 
 ---
 
-<p align="center">
+<div align="center">
+
+  <!-- Bottom Animated Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=100&section=footer" width="100%" />
+
   <sub>✨ <i>"Code with intuition, learn with conviction, let the vibes guide the model."</i> — <b>Roxy Mayford</b></sub>
-</p>
+
+</div>
