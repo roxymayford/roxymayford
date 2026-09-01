@@ -1,7 +1,14 @@
 <div align="center">
 
-  <!-- Top Banner Asset (100% Native & High-Res) -->
+  <!-- Top Animated Banner (Transparent Waving Gradient) -->
   <img src="./assets/header.svg" width="100%" alt="Roxy Mayford Header" />
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Persona-Vibe%20Code%20LARPER-ff69b4?style=for-the-badge&logo=matrix&logoColor=white" />
+    <img src="https://img.shields.io/badge/Favorite-Machine%20Learning%20%26%20AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Obsession-All%20Things%20Math%20%E2%88%9E-00d2ff?style=for-the-badge&logo=quicklook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Learning%20%26%20Growing-brightgreen?style=for-the-badge" />
+  </p>
 
 </div>
 
@@ -53,7 +60,9 @@
 
 <div align="center">
 
-  <!-- Bottom Banner Asset -->
+  <!-- Bottom Animated Banner (Transparent Waving Gradient) -->
   <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
+
+  <sub>✨ <i>"Code with intuition, learn with conviction, let math & vibes guide the model."</i> — <b>Roxy Mayford</b></sub>
 
 </div>
