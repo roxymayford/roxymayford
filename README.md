@@ -1,14 +1,7 @@
 <div align="center">
 
-  <!-- Top Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=220&section=header&text=Roxy%20Mayford&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Vibe%20Code%20LARPER%20%7C%20ML%20%26%20Math%20Obsessed&descFontSize=20&descAlignY=62" width="100%" />
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Persona-Vibe%20Code%20LARPER-ff69b4?style=for-the-badge&logo=matrix&logoColor=white" />
-    <img src="https://img.shields.io/badge/Favorite-Machine%20Learning%20%26%20AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/Obsession-All%20Things%20Math%20%E2%88%9E-00d2ff?style=for-the-badge&logo=quicklook&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Learning%20%26%20Growing-brightgreen?style=for-the-badge" />
-  </p>
+  <!-- Top Banner Asset (100% Native & High-Res) -->
+  <img src="./assets/header.svg" width="100%" alt="Roxy Mayford Header" />
 
 </div>
 
@@ -60,9 +53,7 @@
 
 <div align="center">
 
-  <!-- Bottom Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=100&section=footer" width="100%" />
-
-  <sub>✨ <i>"Code with intuition, learn with conviction, let math & vibes guide the model."</i> — <b>Roxy Mayford</b></sub>
+  <!-- Bottom Banner Asset -->
+  <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
