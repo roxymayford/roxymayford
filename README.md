@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Top Animated Banner (Transparent Waving Gradient) -->
-  <img src="./assets/header.svg" width="100%" alt="Roxy Mayford Header" />
+  <!-- Top Animated Banner (Transparent Background, Clean Typography) -->
+  <img src="./assets/wave-header.svg" width="100%" alt="Roxy Mayford Header" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/Persona-Vibe%20Code%20LARPER-ff69b4?style=for-the-badge&logo=matrix&logoColor=white" />
@@ -60,8 +60,8 @@
 
 <div align="center">
 
-  <!-- Bottom Animated Banner (Transparent Waving Gradient) -->
-  <img src="./assets/footer.svg" width="100%" alt="Footer Banner" />
+  <!-- Bottom Animated Banner (Transparent Background) -->
+  <img src="./assets/wave-footer.svg" width="100%" alt="Footer Banner" />
 
   <sub>✨ <i>"Code with intuition, learn with conviction, let math & vibes guide the model."</i> — <b>Roxy Mayford</b></sub>
 
