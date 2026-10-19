@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://costku.site">
-    <img src="./assets/github-banner.png" width="100%" alt="Roxy Mayford Banner" />
+    <img src="./assets/github-banner-rounded.png" width="100%" alt="Roxy Mayford Banner" />
   </a>
 
   <br/><br/>
@@ -110,8 +110,3 @@ My goal is simple: write clean code, build reliable software, and continuously e
     <img src="https://github-readme-stats.vercel.app/api?username=roxymayford&show_icons=true&hide_border=false&border_radius=0&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=A1A1AA&icon_color=EA580C&rank_icon=default" alt="GitHub Stats Card (Swiss Design)" />
   </a>
 </p>
-<br/>
-
-<div align="center">
-  <sub>✨ <i>"Code with curiosity, learn with persistence, build with purpose."</i> / <b>Roxy Mayford</b></sub>
-</div>
