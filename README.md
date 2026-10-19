@@ -1,20 +1,26 @@
-<a href="https://costku.site">
-  <img src="./assets/banner.png" width="100%" alt="Roxy Mayford Banner" />
-</a>
+<div align="center">
+  <a href="https://costku.site">
+    <img src="./assets/banner.svg" width="100%" alt="Roxy Mayford Banner" />
+  </a>
 
-<br/><br/>
+  <br/><br/>
 
-<a href="https://github.com/roxymayford">
-  <img src="./assets/terminal.svg" width="36" height="36" alt="Code Terminal" />
-</a>
+  <a href="https://github.com/roxymayford">
+    <img src="./assets/terminal.svg" width="36" height="36" alt="Code Terminal" />
+  </a>
 
-# Hi 👋, Imma Roxy Mayford
+  <h1>Hi 👋, Imma Roxy Mayford</h1>
 
-### Informatics Engineering Student | Full Stack Web & Machine Learning (Currently Learning)
+  <h3>Informatics Engineering Student | Full Stack Web & Machine Learning (Currently Learning)</h3>
 
-`> Just Code, Build & Keep Learning_`
+  <p>
+    <code>&gt; Just Code, Build &amp; Keep Learning_</code>
+  </p>
 
-Building modern, responsive full stack web applications while exploring the deep mechanics of Machine Learning & AI systems.
+  <p>
+    Building modern, responsive full stack web applications while exploring the deep mechanics of Machine Learning &amp; AI systems.
+  </p>
+</div>
 
 <br/>
 
@@ -49,15 +55,15 @@ My goal is simple: write clean code, build reliable software, and continuously e
 
 <br/>
 
-<p align="left">
+<div align="center">
   <img src="./assets/cat-animation.svg" width="420" alt="Playing Cat Animation" />
-</p>
+</div>
 
 <br/><br/>
 
-## 🤝 Connect
+<h2 align="center">🤝 Connect</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://costku.site" target="_blank">
     <img src="https://img.shields.io/badge/Website-costku.site-ea580c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="costku.site" />
   </a>
@@ -77,14 +83,14 @@ My goal is simple: write clean code, build reliable software, and continuously e
 
 <br/>
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb&perline=12" alt="Web Development Stack" />
   </a>
 </p>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,numpy,pandas,docker,git,github,vscode,linux,postman&perline=12" alt="Machine Learning & Tools Stack" />
   </a>
@@ -92,14 +98,14 @@ My goal is simple: write clean code, build reliable software, and continuously e
 
 <br/>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/roxymayford">
     <img src="https://streak-stats.demolab.com/?user=roxymayford&hide_border=false&border_radius=0&background=0D1117&border=30363D&stroke=30363D&ring=EA580C&fire=EA580C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EA580C&sideLabels=A1A1AA&dates=71717A" alt="GitHub Streak Stats (Swiss Design)" />
   </a>
 </p>
-<p align="left">
+<p align="center">
   <a href="https://github.com/roxymayford">
     <img src="https://github-readme-stats.vercel.app/api?username=roxymayford&show_icons=true&hide_border=false&border_radius=0&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=A1A1AA&icon_color=EA580C&rank_icon=default" alt="GitHub Stats Card (Swiss Design)" />
   </a>
@@ -107,14 +113,16 @@ My goal is simple: write clean code, build reliable software, and continuously e
 
 <br/>
 
-## 📈 Activity Graph
+<h2 align="center">📈 Activity Graph</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/roxymayford">
-    <img src="./assets/activity-graph.svg" width="100%" alt="Roxy Mayford Contribution Activity Graph (Swiss Design)" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=roxymayford&theme=github-dark&bg_color=0D1117&color=EA580C&line=EA580C&point=FFFFFF&area=true&hide_border=false&border_color=30363D&custom_title=roxymayford%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
   </a>
 </p>
 
 <br/>
 
-<sub>✨ <i>"Code with curiosity, learn with persistence, build with purpose."</i> / <b>Roxy Mayford</b></sub>
+<div align="center">
+  <sub>✨ <i>"Code with curiosity, learn with persistence, build with purpose."</i> / <b>Roxy Mayford</b></sub>
+</div>
