@@ -8,10 +8,13 @@
   <a href="https://github.com/roxymayford">
     <img src="./assets/terminal.svg" width="36" height="36" alt="Code Terminal" />
   </a>
+  <br/>
 
-  <h1>Hi 👋, Imma Roxy Mayford</h1>
+  <a href="https://github.com/roxymayford">
+    <img src="./assets/typewriter.svg" alt="Roxy Mayford Pixel Typewriter" />
+  </a>
 
-  <h3>Informatics Engineering Student | Full Stack Web & Machine Learning (Currently Learning)</h3>
+  <h3>Informatics Engineering Student at Universitas Pamulang | Full Stack Web &amp; Machine Learning</h3>
 
   <p>
     <code>&gt; Just Code, Build &amp; Keep Learning_</code>
@@ -30,7 +33,7 @@
   <tr>
     <td width="65%" valign="top">
 
-**Roxy Mayford**, an Informatics Engineering student deeply focused on **Full Stack Web Development** and **Machine Learning**.
+**Roxy Mayford**, an Informatics Engineering student at **Universitas Pamulang** deeply focused on **Full Stack Web Development** and **Machine Learning**.
 
 I enjoy crafting scalable, modern web applications from intuitive frontends to reliable backends, while actively demystifying how mathematical theory powers intelligent AI & Machine Learning models.
 
