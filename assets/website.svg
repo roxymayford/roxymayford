@@ -1,0 +1,14 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <circle cx="128" cy="128" r="68" stroke="url(#webGrad)" stroke-width="14" stroke-linecap="round"/>
+  <ellipse cx="128" cy="128" rx="30" ry="68" stroke="url(#webGrad)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M60 128H196" stroke="url(#webGrad)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M72 88H184" stroke="url(#webGrad)" stroke-width="12" stroke-linecap="round"/>
+  <path d="M72 168H184" stroke="url(#webGrad)" stroke-width="12" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="webGrad" x1="60" y1="60" x2="196" y2="196" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FB923C"/>
+      <stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+  </defs>
+</svg>

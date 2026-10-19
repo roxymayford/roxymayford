@@ -68,7 +68,7 @@ My goal is simple: write clean code, build reliable software, and continuously e
 
 <p align="center">
   <a href="https://costku.site" target="_blank">
-    <img src="https://img.shields.io/badge/Website-costku.site-ea580c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="costku.site" />
+    <img src="./assets/website.svg" width="44" height="44" alt="CostKu Website" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/roxymayford" target="_blank">
