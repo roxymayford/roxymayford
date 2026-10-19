@@ -15,25 +15,25 @@
 
   <!-- Waving Gradient Animation (Transparent Background) -->
   <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
-    <path d="" fill="url(#wave-gradient)" opacity="0.45">
+    <path d="M0 0L 0 130Q 213.5 170 427 140T 854 165L 854 0 Z" fill="url(#wave-gradient)" opacity="0.45">
       <animate
         attributeName="d"
         dur="18s"
         repeatCount="indefinite"
         keyTimes="0;0.333;0.667;1"
-        calcmod="spline"
+        calcMode="spline"
         keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
         begin="0s"
         values="M0 0L 0 130Q 213.5 170 427 140T 854 165L 854 0 Z;M0 0L 0 155Q 213.5 170 427 150T 854 140L 854 0 Z;M0 0L 0 170Q 213.5 145 427 175T 854 140L 854 0 Z;M0 0L 0 130Q 213.5 170 427 140T 854 165L 854 0 Z"
       />
     </path>
-    <path d="" fill="url(#wave-gradient)" opacity="0.45">
+    <path d="M0 0L 0 145Q 213.5 190 427 160T 854 170L 854 0 Z" fill="url(#wave-gradient)" opacity="0.45">
       <animate
         attributeName="d"
         dur="18s"
         repeatCount="indefinite"
         keyTimes="0;0.333;0.667;1"
-        calcmod="spline"
+        calcMode="spline"
         keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
         begin="-9s"
         values="M0 0L 0 145Q 213.5 190 427 160T 854 170L 854 0 Z;M0 0L 0 160Q 213.5 130 427 130T 854 150L 854 0 Z;M0 0L 0 155Q 213.5 135 427 160T 854 175L 854 0 Z;M0 0L 0 145Q 213.5 190 427 160T 854 170L 854 0 Z"

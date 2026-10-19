@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 340" width="100%" height="100%" fill="none">
+  <defs>
+    <linearGradient id="areaGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EA580C" stop-opacity="0.28" />
+      <stop offset="60%" stop-color="#EA580C" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#EA580C" stop-opacity="0.0" />
+    </linearGradient>
+    <linearGradient id="lineGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#EA580C" />
+      <stop offset="50%" stop-color="#FF7A1A" />
+      <stop offset="100%" stop-color="#EA580C" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .swiss-title {
+      font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+      font-size: 16px;
+      font-weight: 700;
+      letter-spacing: -0.2px;
+      fill: #FFFFFF;
+    }
+    .swiss-tag {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      fill: #EA580C;
+    }
+    .swiss-sub {
+      font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+      font-size: 11px;
+      font-weight: 400;
+      fill: #8B949E;
+    }
+    .swiss-metric-val {
+      font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      fill: #FFFFFF;
+    }
+    .swiss-metric-lbl {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 9px;
+      font-weight: 500;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      fill: #8B949E;
+    }
+    .grid-label {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 10px;
+      fill: #6E7681;
+    }
+    .grid-line {
+      stroke: #21262D;
+      stroke-width: 1;
+      stroke-dasharray: 3 4;
+    }
+    .axis-baseline {
+      stroke: #30363D;
+      stroke-width: 1.5;
+    }
+    .pulse-ring {
+      transform-origin: 800px 110px;
+      animation: pulse 2s infinite ease-out;
+    }
+    @keyframes pulse {
+      0% { r: 4px; opacity: 1; stroke-width: 1.5; }
+      100% { r: 14px; opacity: 0; stroke-width: 0.5; }
+    }
+  </style>
+
+  <!-- Container Box with Sharp Swiss Edges -->
+  <rect x="0.75" y="0.75" width="848.5" height="338.5" fill="#0D1117" stroke="#30363D" stroke-width="1.5" />
+
+  <!-- Corner Hairline Crosshairs (Swiss Architect Marks) -->
+  <path d="M12 8V16M8 12H16" stroke="#30363D" stroke-width="1" />
+  <path d="M838 8V16M834 12H842" stroke="#30363D" stroke-width="1" />
+  <path d="M12 324V332M8 328H16" stroke="#30363D" stroke-width="1" />
+  <path d="M838 324V332M834 328H842" stroke="#30363D" stroke-width="1" />
+
+  <!-- Header Section -->
+  <g transform="translate(28, 28)">
+    <text x="0" y="0" class="swiss-tag">03 // REPOSITORY VELOCITY &amp; ACTIVITY</text>
+    <text x="0" y="24" class="swiss-title">Contribution Cadence Graph</text>
+    <text x="0" y="42" class="swiss-sub">Roxy Mayford · Tracked commit events &amp; development continuity</text>
+  </g>
+
+  <!-- Metrics Bento Cells (Top Right) -->
+  <g transform="translate(530, 20)">
+    <!-- Cell 1 -->
+    <rect x="0" y="0" width="135" height="48" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <text x="12" y="18" class="swiss-metric-lbl">CONTRIBUTIONS</text>
+    <text x="12" y="38" class="swiss-metric-val">175</text>
+    <text x="44" y="38" class="swiss-tag" style="font-size:10px;">TOTAL</text>
+
+    <!-- Cell 2 -->
+    <rect x="145" y="0" width="145" height="48" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <text x="12" y="18" class="swiss-metric-lbl">ACTIVE STREAK</text>
+    <text x="12" y="38" class="swiss-metric-val">LEVELING UP</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="28" y1="84" x2="822" y2="84" stroke="#21262D" stroke-width="1" />
+
+  <!-- Grid Horizontal Lines & Y-Labels -->
+  <g>
+    <!-- 12 commits -->
+    <text x="42" y="114" class="grid-label" text-anchor="end">12</text>
+    <line x1="52" y1="110" x2="800" y2="110" class="grid-line" />
+
+    <!-- 9 commits -->
+    <text x="42" y="156" class="grid-label" text-anchor="end">9</text>
+    <line x1="52" y1="152.5" x2="800" y2="152.5" class="grid-line" />
+
+    <!-- 6 commits -->
+    <text x="42" y="199" class="grid-label" text-anchor="end">6</text>
+    <line x1="52" y1="195" x2="800" y2="195" class="grid-line" />
+
+    <!-- 3 commits -->
+    <text x="42" y="241" class="grid-label" text-anchor="end">3</text>
+    <line x1="52" y1="237.5" x2="800" y2="237.5" class="grid-line" />
+
+    <!-- Baseline 0 -->
+    <text x="42" y="284" class="grid-label" text-anchor="end">0</text>
+    <line x1="52" y1="280" x2="800" y2="280" class="axis-baseline" />
+  </g>
+
+  <!-- Area Fill Under Path -->
+  <path d="M 75.0,251.7 C 86.0,247.0 119.0,244.6 141.0,223.3 C 163.0,202.1 185.0,126.6 207.0,124.2 C 229.0,121.8 251.0,199.8 273.0,209.2 C 295.0,218.6 317.0,183.2 339.0,180.8 C 361.0,178.4 383.0,197.3 405.0,195.0 C 427.0,192.7 449.0,173.8 471.0,166.7 C 493.0,159.6 515.0,150.2 537.0,152.5 C 559.0,154.8 581.0,183.2 603.0,180.8 C 625.0,178.4 647.0,140.7 669.0,138.3 C 691.0,136.0 713.2,171.4 735.0,166.7 C 756.8,162.0 789.2,119.5 800.0,110.0 L 800,280 L 75,280 Z" fill="url(#areaGradient)" />
+
+  <!-- Smooth Path Curve -->
+  <path d="M 75.0,251.7 C 86.0,247.0 119.0,244.6 141.0,223.3 C 163.0,202.1 185.0,126.6 207.0,124.2 C 229.0,121.8 251.0,199.8 273.0,209.2 C 295.0,218.6 317.0,183.2 339.0,180.8 C 361.0,178.4 383.0,197.3 405.0,195.0 C 427.0,192.7 449.0,173.8 471.0,166.7 C 493.0,159.6 515.0,150.2 537.0,152.5 C 559.0,154.8 581.0,183.2 603.0,180.8 C 625.0,178.4 647.0,140.7 669.0,138.3 C 691.0,136.0 713.2,171.4 735.0,166.7 C 756.8,162.0 789.2,119.5 800.0,110.0" stroke="url(#lineGradient)" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Data Nodes -->
+  <g>
+    <!-- Nov -->
+    <circle cx="75" cy="251.7" r="3" fill="#0D1117" stroke="#EA580C" stroke-width="1.8" />
+    <text x="75" y="298" class="grid-label" text-anchor="middle">NOV</text>
+
+    <!-- Dec -->
+    <circle cx="141" cy="223.3" r="3" fill="#0D1117" stroke="#EA580C" stroke-width="1.8" />
+    <text x="141" y="298" class="grid-label" text-anchor="middle">DEC</text>
+
+    <!-- Jan (Peak 1) -->
+    <circle cx="207" cy="124.2" r="4.5" fill="#EA580C" stroke="#FFFFFF" stroke-width="1.5" />
+    <text x="207" y="298" class="grid-label" text-anchor="middle" font-weight="600" fill="#FFFFFF">JAN</text>
+
+    <!-- Feb -->
+    <circle cx="273" cy="209.2" r="3" fill="#0D1117" stroke="#EA580C" stroke-width="1.8" />
+    <text x="273" y="298" class="grid-label" text-anchor="middle">FEB</text>
+
+    <!-- Mar -->
+    <circle cx="339" cy="180.8" r="3" fill="#0D1117" stroke="#EA580C" stroke-width="1.8" />
+    <text x="339" y="298" class="grid-label" text-anchor="middle">MAR</text>
+
+    <!-- Apr -->
+    <circle cx="405" cy="195.0" r="3" fill="#0D1117" stroke="#EA580C" stroke-width="1.8" />
+    <text x="405" y="298" class="grid-label" text-anchor="middle">APR</text>
+
+    <!-- May -->
+    <circle cx="471" cy="166.7" r="3" fill="#0D1117" stroke="#EA580C" stroke-width="1.8" />
+    <text x="471" y="298" class="grid-label" text-anchor="middle">MAY</text>
+
+    <!-- Jun -->
+    <circle cx="537" cy="152.5" r="3" fill="#0D1117" stroke="#EA580C" stroke-width="1.8" />
+    <text x="537" y="298" class="grid-label" text-anchor="middle">JUN</text>
+
+    <!-- Jul -->
+    <circle cx="603" cy="180.8" r="3" fill="#0D1117" stroke="#EA580C" stroke-width="1.8" />
+    <text x="603" y="298" class="grid-label" text-anchor="middle">JUL</text>
+
+    <!-- Aug (Peak 2) -->
+    <circle cx="669" cy="138.3" r="4" fill="#0D1117" stroke="#EA580C" stroke-width="2" />
+    <text x="669" y="298" class="grid-label" text-anchor="middle">AUG</text>
+
+    <!-- Sep -->
+    <circle cx="735" cy="166.7" r="3" fill="#0D1117" stroke="#EA580C" stroke-width="1.8" />
+    <text x="735" y="298" class="grid-label" text-anchor="middle">SEP</text>
+
+    <!-- Oct (Active Peak) -->
+    <circle cx="800" cy="110.0" r="8" fill="none" stroke="#EA580C" opacity="0.4" class="pulse-ring" />
+    <circle cx="800" cy="110.0" r="5" fill="#EA580C" stroke="#FFFFFF" stroke-width="2" />
+    <text x="800" y="298" class="grid-label" text-anchor="middle" font-weight="700" fill="#EA580C">OCT</text>
+  </g>
+
+  <!-- Footer Technical Annotation (Swiss Grid Meta) -->
+  <g transform="translate(28, 322)">
+    <circle cx="3" cy="-4" r="3" fill="#3FB950" />
+    <text x="12" y="0" class="swiss-tag" style="fill:#8B949E; font-size:9px;">METRIC SYSTEM // LATENCY 0MS NATIVE ASSET // UTC+07</text>
+    <text x="794" y="0" class="swiss-tag" style="font-size:9px;" text-anchor="end">SWISS TYPOGRAPHIC SYSTEM v2.0</text>
+  </g>
+</svg>

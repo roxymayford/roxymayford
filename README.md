@@ -5,7 +5,7 @@
 <br/><br/>
 
 <a href="https://github.com/roxymayford">
-  <img src="./Code%20or%20Terminal.svg" width="56" alt="Code Terminal" />
+  <img src="./assets/terminal.svg" width="36" height="36" alt="Code Terminal" />
 </a>
 
 # Hi 👋, Imma Roxy Mayford
@@ -40,7 +40,7 @@ My goal is simple: write clean code, build reliable software, and continuously e
 
    </td>
    <td width="35%" align="center" valign="middle">
-     <img src="./001%20Bulbasaur.svg" width="220" alt="Bulbasaur Animation" />
+     <img src="./assets/bulbasaur.svg" width="220" alt="Bulbasaur Animation" />
      <br/>
      <sub>🌱 <i>Always evolving & leveling up!</i></sub>
    </td>
@@ -49,7 +49,9 @@ My goal is simple: write clean code, build reliable software, and continuously e
 
 <br/>
 
-<img src="./Cat%20playing%20animation.svg" width="420" alt="Playing Cat Animation" />
+<p align="left">
+  <img src="./assets/cat-animation.svg" width="420" alt="Playing Cat Animation" />
+</p>
 
 <br/><br/>
 
@@ -94,12 +96,12 @@ My goal is simple: write clean code, build reliable software, and continuously e
 
 <p align="left">
   <a href="https://github.com/roxymayford">
-    <img src="https://streak-stats.demolab.com/?user=roxymayford&theme=tokyonight&hide_border=false&border_radius=8&background=0D1117&stroke=30363D&ring=388BFD&fire=388BFD&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=roxymayford&hide_border=false&border_radius=0&background=0D1117&border=30363D&stroke=30363D&ring=EA580C&fire=EA580C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EA580C&sideLabels=A1A1AA&dates=71717A" alt="GitHub Streak Stats (Swiss Design)" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/roxymayford">
-    <img src="https://github-readme-stats.vercel.app/api?username=roxymayford&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&bg_color=0D1117&border_color=30363D&title_color=58A6FF&icon_color=388BFD" alt="GitHub Stats Card" />
+    <img src="https://github-readme-stats.vercel.app/api?username=roxymayford&show_icons=true&hide_border=false&border_radius=0&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=A1A1AA&icon_color=EA580C&rank_icon=default" alt="GitHub Stats Card (Swiss Design)" />
   </a>
 </p>
 
@@ -109,7 +111,7 @@ My goal is simple: write clean code, build reliable software, and continuously e
 
 <p align="left">
   <a href="https://github.com/roxymayford">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=roxymayford&theme=github-dark&bg_color=0D1117&color=58A6FF&line=388BFD&point=58A6FF&area=true&hide_border=false&border_color=30363D&custom_title=roxymayford%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
+    <img src="./assets/activity-graph.svg" width="100%" alt="Roxy Mayford Contribution Activity Graph (Swiss Design)" />
   </a>
 </p>
 
