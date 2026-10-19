@@ -1,26 +1,22 @@
-<table width="100%">
-  <tr>
-    <td align="left" valign="middle">
-      <sub><b>// INFORMATICS ENGINEERING</b></sub>
-      <h1>ROXY MAYFORD</h1>
-      <p><b>Full Stack Web Developer</b> &nbsp;&bull;&nbsp; <b>Machine Learning</b></p>
-      <code>&gt; Just Code, Build &amp; Keep Learning_</code>
-    </td>
-    <td align="right" valign="middle">
-      <a href="https://costku.site" target="_blank">
-        <img src="https://img.shields.io/badge/WEBSITE-costku.site-ea580c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="costku.site" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/roxymayford">
-        <img src="./assets/terminal.svg" width="34" height="34" alt="Code Terminal" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <div align="center">
+  <a href="https://costku.site">
+    <img src="./assets/github-banner.png" width="100%" alt="Roxy Mayford Banner" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/roxymayford">
+    <img src="./assets/terminal.svg" width="36" height="36" alt="Code Terminal" />
+  </a>
+
+  <h1>Hi 👋, Imma Roxy Mayford</h1>
+
+  <h3>Informatics Engineering Student | Full Stack Web & Machine Learning (Currently Learning)</h3>
+
+  <p>
+    <code>&gt; Just Code, Build &amp; Keep Learning_</code>
+  </p>
+
   <p>
     Building modern, responsive full stack web applications while exploring the deep mechanics of Machine Learning &amp; AI systems.
   </p>
