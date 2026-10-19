@@ -1,22 +1,26 @@
+<table width="100%">
+  <tr>
+    <td align="left" valign="middle">
+      <sub><b>// INFORMATICS ENGINEERING</b></sub>
+      <h1>ROXY MAYFORD</h1>
+      <p><b>Full Stack Web Developer</b> &nbsp;&bull;&nbsp; <b>Machine Learning</b></p>
+      <code>&gt; Just Code, Build &amp; Keep Learning_</code>
+    </td>
+    <td align="right" valign="middle">
+      <a href="https://costku.site" target="_blank">
+        <img src="https://img.shields.io/badge/WEBSITE-costku.site-ea580c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="costku.site" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/roxymayford">
+        <img src="./assets/terminal.svg" width="34" height="34" alt="Code Terminal" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <div align="center">
-  <a href="https://costku.site">
-    <img src="./assets/banner.svg" width="100%" alt="Roxy Mayford Banner" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/roxymayford">
-    <img src="./assets/terminal.svg" width="36" height="36" alt="Code Terminal" />
-  </a>
-
-  <h1>Hi 👋, Imma Roxy Mayford</h1>
-
-  <h3>Informatics Engineering Student | Full Stack Web & Machine Learning (Currently Learning)</h3>
-
-  <p>
-    <code>&gt; Just Code, Build &amp; Keep Learning_</code>
-  </p>
-
   <p>
     Building modern, responsive full stack web applications while exploring the deep mechanics of Machine Learning &amp; AI systems.
   </p>
@@ -72,7 +76,7 @@ My goal is simple: write clean code, build reliable software, and continuously e
     <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/roxymayford" target="_blank">
+  <a href="https://www.linkedin.com/in/raihan-shandi-adrida-meilano-b13238335/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
@@ -92,7 +96,7 @@ My goal is simple: write clean code, build reliable software, and continuously e
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,numpy,pandas,docker,git,github,vscode,linux,postman&perline=12" alt="Machine Learning & Tools Stack" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda,docker,git,github,vscode,linux,postman&perline=12" alt="Machine Learning & Tools Stack" />
   </a>
 </p>
 
@@ -110,17 +114,6 @@ My goal is simple: write clean code, build reliable software, and continuously e
     <img src="https://github-readme-stats.vercel.app/api?username=roxymayford&show_icons=true&hide_border=false&border_radius=0&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=A1A1AA&icon_color=EA580C&rank_icon=default" alt="GitHub Stats Card (Swiss Design)" />
   </a>
 </p>
-
-<br/>
-
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <a href="https://github.com/roxymayford">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=roxymayford&theme=github-dark&bg_color=0D1117&color=EA580C&line=EA580C&point=FFFFFF&area=true&hide_border=false&border_color=30363D&custom_title=roxymayford%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
-  </a>
-</p>
-
 <br/>
 
 <div align="center">
