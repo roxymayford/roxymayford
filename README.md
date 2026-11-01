@@ -108,9 +108,3 @@ My goal is simple: write clean code, build reliable software, and continuously e
     <img src="https://streak-stats.demolab.com/?user=roxymayford&hide_border=false&border_radius=0&background=0D1117&border=30363D&stroke=30363D&ring=EA580C&fire=EA580C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=EA580C&sideLabels=A1A1AA&dates=71717A" alt="GitHub Streak Stats (Swiss Design)" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/roxymayford">
-    <img src="https://github-readme-stats.vercel.app/api?username=roxymayford&show_icons=true&hide_border=false&border_radius=0&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=A1A1AA&icon_color=EA580C&rank_icon=default" alt="GitHub Stats Card (Swiss Design)" />
-  </a>
-</p>
